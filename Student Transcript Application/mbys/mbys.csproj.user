@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>C:\Users\berka\OneDrive\Masaüstü\210601066_Berkay_TUNCER_VTYS_FinalOdev\mbys\Properties\PublishProfiles\FolderProfile.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmReceteIlac.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="HastaKayıt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="HastalarListesl.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="HastaSil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="HastayaVerilenİlaclar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="IlaçlarıListele.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MuayeneDefteri.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MuayeneKayıt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ReçeteKayıt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ReçeteListele.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="İlacinVerildigiHastalar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="İlaçKayıt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,7 @@
+C:\Users\berka\OneDrive\Masaüstü\210601066_Berkay_TUNCER_VTYS_FinalOdev\mbys.exe
+C:\Users\berka\OneDrive\Masaüstü\210601066_Berkay_TUNCER_VTYS_FinalOdev\mbys.dll
+C:\Users\berka\OneDrive\Masaüstü\210601066_Berkay_TUNCER_VTYS_FinalOdev\mbys.deps.json
+C:\Users\berka\OneDrive\Masaüstü\210601066_Berkay_TUNCER_VTYS_FinalOdev\mbys.runtimeconfig.json
+C:\Users\berka\OneDrive\Masaüstü\210601066_Berkay_TUNCER_VTYS_FinalOdev\mbys.pdb
+C:\Users\berka\OneDrive\Masaüstü\210601066_Berkay_TUNCER_VTYS_FinalOdev\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\berka\OneDrive\Masaüstü\210601066_Berkay_TUNCER_VTYS_FinalOdev\Npgsql.dll
